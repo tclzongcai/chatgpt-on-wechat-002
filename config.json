@@ -1,0 +1,7 @@
+    "channel_type": "wechatcom_app",
+    "wechatcom_corp_id": "wwd57c92d5c72a790b",  # 企业微信公司的corpID
+    "wechatcomapp_token": "gNfmeKd5HNrOLziLStikypM",  # 企业微信app的token
+    "wechatcomapp_port": 9898,  # 企业微信app的服务端口, 不需要端口转发
+    "wechatcomapp_secret": "aQBUe6bMnlNFkrttiYoN8ELFuHdIOrzWIWVNGOIM62o",  # 企业微信app的secret
+    "wechatcomapp_agent_id": "1000002",  # 企业微信app的agent_id
+    "wechatcomapp_aes_key": "61dDie3fjGpIdn44MaSQo143PVXWFRVgsEDWAPmAV1W",  # 企业微信app的aes_key
